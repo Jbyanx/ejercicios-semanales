@@ -174,8 +174,8 @@ th, h1 {
   text-transform: uppercase;
 }
 
-td {
-  border-bottom: 1px solid #dddddd;
+tr, td {
+  border: 1px solid #009879;
 }
 
 tr:nth-of-type(even) {
